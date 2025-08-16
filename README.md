@@ -54,11 +54,20 @@
 
 ## 📊 GitHub Stats  
 
-![Sidney's GitHub Stats](https://github-readme-stats.vercel.app/api?username=**SIDNEY081**&show_icons=true&theme=radical)  
+![Sidney's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sidney081&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=**YSIDNEY081**&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidney081&layout=compact&theme=radical)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=**SIDNEY081**&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sidney081&theme=radical)  
+
+---
+
+## 🚀 Currently Working On / Learning  
+<!--START_SECTION:waka-->
+*Learning:* Embedded C, Real-Time Systems, Advanced Java  
+*Working On:* VCU Prototype Project (MATLAB + Embedded C), Chatbot (School Project), Blog Website in HTML/CSS/PHP  
+*Exploring:* IoT projects with Arduino & Raspberry Pi  
+<!--END_SECTION:waka-->
 
 ---
 
