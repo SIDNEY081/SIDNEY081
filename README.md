@@ -67,21 +67,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sidney081&theme=radical)  
 
----
-
-## 📈 WakaTime Stats (Real Coding Activity)  
-
-![WakaTime Stats](https://wakatime.com/share/@sidneympenyana/your-stats-badge.svg)  
-![Top Coding Languages](https://wakatime.com/share/@sidneympenyana/top-langs.svg)  
-
----
-
-## 🚀 Currently Working On / Learning  
-<!--START_SECTION:waka-->
-*Learning:* Embedded C, Real-Time Systems, Advanced Java  
-*Working On:* VCU Prototype Project (MATLAB + Embedded C), AI Chatbot, CKC Edition IT Solutions Website, Blog Website in HTML/CSS/PHP  
-*Exploring:* IoT projects with Arduino & Raspberry Pi  
-<!--END_SECTION:waka-->
 
 ---
 
