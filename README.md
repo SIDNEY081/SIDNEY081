@@ -34,7 +34,8 @@
 
 ## 🔹 About Me  
 - 🌱 Currently learning **Embedded C, microcontroller programming, and system integration**  
-- 🚀 Worked on a **Vehicle Control Unit (VCU) prototype** project integrating dashboard, motor control, and climate systems  
+- 🚀 Working on a **Vehicle Control Unit (VCU) prototype** project (in progress) integrating dashboard, motor control, and climate systems  
+- 💻 Worked on **MICT SETA Learning Program** as a **Developer**  
 - 🛠️ Experienced in **Java, Python, and C++** for software development  
 - 🤝 Looking for an **internship in Software Development or Embedded Systems** to apply my skills and grow further  
 
@@ -45,10 +46,16 @@
 *Vehicle Control Unit for electric/hybrid vehicle – controlling motor, dashboard, and climate systems using MATLAB & Embedded C.*  
 
 📌 [MICT SETA Recruitment System](#)  
-*Academic project – a recruitment management system with database integration.*  
+*Academic project – a recruitment management system with database integration. Worked as a Developer.*  
 
 📌 [Python Basics Blog Website](#)  
 *Frontend project teaching Python basics with HTML, CSS, and a blog-style layout.*  
+
+📌 [CKC Edition IT Solutions Website](#) *(in progress)*  
+*Website for IT solutions including Windows installations, graphics installation, and more.*  
+
+📌 [AI Chatbot](#) *(in progress)*  
+*School-based AI chatbot project aimed at learning and integrating conversational AI features.*  
 
 ---
 
@@ -64,14 +71,15 @@
 
 ## 📈 WakaTime Stats (Real Coding Activity)  
 
-![WakaTime Stats](https://wakatime.com/share/@Sidney081/your-stats-badge.svg)  
-![Top Coding Languages](https://wakatime.com/share/@Sidney081/top-langs.svg)  
+![WakaTime Stats](https://wakatime.com/share/@sidneympenyana/your-stats-badge.svg)  
+![Top Coding Languages](https://wakatime.com/share/@sidneympenyana/top-langs.svg)  
 
+---
 
 ## 🚀 Currently Working On / Learning  
 <!--START_SECTION:waka-->
 *Learning:* Embedded C, Real-Time Systems, Advanced Java  
-*Working On:* VCU Prototype Project (MATLAB + Embedded C), Blog Website in HTML/CSS/PHP  
+*Working On:* VCU Prototype Project (MATLAB + Embedded C), AI Chatbot, CKC Edition IT Solutions Website, Blog Website in HTML/CSS/PHP  
 *Exploring:* IoT projects with Arduino & Raspberry Pi  
 <!--END_SECTION:waka-->
 
