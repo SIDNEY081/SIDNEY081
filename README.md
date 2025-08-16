@@ -67,9 +67,6 @@
 ![WakaTime Stats](https://wakatime.com/share/@Sidney081/your-stats-badge.svg)  
 ![Top Coding Languages](https://wakatime.com/share/@Sidney081/top-langs.svg)  
 
-> Replace `Sidney081` with your WakaTime username and the badge URL you get from [WakaTime Badges](https://wakatime.com/settings/badges)
-
----
 
 ## 🚀 Currently Working On / Learning  
 <!--START_SECTION:waka-->
