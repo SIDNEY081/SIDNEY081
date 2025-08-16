@@ -33,7 +33,7 @@
 ---
 
 ## 🔹 About Me  
-- 🌱 Currently learning **embedded C, microcontroller programming, and system integration**  
+- 🌱 Currently learning **Embedded C, microcontroller programming, and system integration**  
 - 🚀 Worked on a **Vehicle Control Unit (VCU) prototype** project integrating dashboard, motor control, and climate systems  
 - 🛠️ Experienced in **Java, Python, and C++** for software development  
 - 🤝 Looking for an **internship in Software Development or Embedded Systems** to apply my skills and grow further  
@@ -42,7 +42,7 @@
 
 ## 🔹 Featured Projects  
 📌 [VCU Prototype Project](#) *(in progress)*  
-*Vehicle Control Unit for electric/hybrid vehicle – controlling motor, dashboard, and climate systems using MATLAB & embedded C.*  
+*Vehicle Control Unit for electric/hybrid vehicle – controlling motor, dashboard, and climate systems using MATLAB & Embedded C.*  
 
 📌 [MICT SETA Recruitment System](#)  
 *Academic project – a recruitment management system with database integration.*  
@@ -56,16 +56,25 @@
 
 ![Sidney's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sidney081&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidney081&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidney081&layout=compact&langs_count=10&theme=radical)  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sidney081&theme=radical)  
+
+---
+
+## 📈 WakaTime Stats (Real Coding Activity)  
+
+![WakaTime Stats](https://wakatime.com/share/@Sidney081/your-stats-badge.svg)  
+![Top Coding Languages](https://wakatime.com/share/@Sidney081/top-langs.svg)  
+
+> Replace `Sidney081` with your WakaTime username and the badge URL you get from [WakaTime Badges](https://wakatime.com/settings/badges)
 
 ---
 
 ## 🚀 Currently Working On / Learning  
 <!--START_SECTION:waka-->
 *Learning:* Embedded C, Real-Time Systems, Advanced Java  
-*Working On:* VCU Prototype Project (MATLAB + Embedded C), Chatbot (School Project), Blog Website in HTML/CSS/PHP  
+*Working On:* VCU Prototype Project (MATLAB + Embedded C), Blog Website in HTML/CSS/PHP  
 *Exploring:* IoT projects with Arduino & Raspberry Pi  
 <!--END_SECTION:waka-->
 
@@ -74,7 +83,7 @@
 ## 🔹 Let’s Connect  
 📧 Email: **sidneympenyana@gmail.com**  
 📱 Phone: **+27 81 056 5675**  
-🌐 LinkedIn: [linkedin.com/in/sidney-mpenyana](#)  
+🌐 LinkedIn: [https://www.linkedin.com/in/sidney-mpenyana-891091147/](#)  
 🌍 Location: Gauteng, South Africa  
 
 ---
