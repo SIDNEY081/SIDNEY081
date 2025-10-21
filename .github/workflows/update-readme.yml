@@ -16,10 +16,10 @@ jobs:
         uses: abhijithvijayan/github-profile-readme-projects@v1.0.6
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          max_projects: 5
+          max_projects: 6
           sort_by: updated
           readme_path: README.md
           projects_heading: "## 🚀 Latest Projects"
           projects_start_tag: "<!--START_SECTION:projects-->"
           projects_end_tag: "<!--END_SECTION:projects-->"
-          topics: "portfolio,iot,ai"
+          topics: "portfolio,iot,ai,school-project,embedded"
