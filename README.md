@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Sidney Mpenyana
 
 🎓 Final-year IT Student @ Vaal University of Technology  
-💻 Passionate about **Software Development** & **Embedded Systems**  
-⚡ Exploring IoT, AI, and real-time system design  
+💻 Passionate about **Software Development**, **Embedded Systems**, and **AI**  
+⚡ Exploring IoT, real-time system design, and conversational interfaces  
 
 ---
 
@@ -18,7 +18,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
-
 
 <!-- Embedded / Platforms -->
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
@@ -39,6 +38,7 @@
 - 🔧 Embedded C & microcontroller programming  
 - 📡 Real-time system integration (VCU project)  
 - 🤖 Conversational AI (AI Chatbot project)  
+- 🧩 Jetpack Compose for Android UI  
 
 ---
 
@@ -52,19 +52,20 @@
 
 ## 📊 GitHub Stats
 
-![Sidney's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sidney081&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidney081&layout=compact&langs_count=10&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sidney081&theme=radical)
+![Sidney's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SIDNEY081&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SIDNEY081&layout=compact&langs_count=10&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SIDNEY081&theme=radical)
+
+---
+
+## 🛠️ Automation Status
+
+![Auto Update](https://github.com/SIDNEY081/SIDNEY081/actions/workflows/update-readme.yml/badge.svg)
 
 ---
 
 ## 🤝 Let’s Connect
 
 📧 Email: **sidneympenyana@gmail.com**  
-📱 Phone: **+27 81 056 5675**  
-🌐 [LinkedIn](https://www.linkedin.com/in/sidney-mpenyana-891091147/)  
-📍 Gauteng, South Africa  
-
----
-
-⭐ *“Always building, always learning.”*
+🌐 LinkedIn: [Sidney Mpenyana](https://www.linkedin.com/in/sidney-mpenyana-891091147/)  
+📍 Gauteng, South Africa
