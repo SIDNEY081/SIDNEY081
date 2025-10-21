@@ -43,7 +43,6 @@
 ---
 
 ## 🚀 Latest Projects
-
 <!--START_SECTION:projects-->
 <!-- This section will be automatically updated by GitHub Actions -->
 <!--END_SECTION:projects-->
