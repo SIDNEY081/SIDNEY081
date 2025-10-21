@@ -41,11 +41,37 @@
 - 🧩 Jetpack Compose for Android UI  
 
 ---
-
 ## 🚀 Latest Projects
-<!--START_SECTION:projects-->
-<!-- This section will be automatically updated by GitHub Actions -->
-<!--END_SECTION:projects-->
+
+### 🛡️ SafeShell
+A personal safety Android app that disguises banking access and sends silent alerts during emergencies.  
+**Tech:** Kotlin, Jetpack Compose, Firebase  
+**Topics:** android, security-app, ai  
+🔗 [View Repo](https://github.com/SIDNEY081/SafeShell)
+
+---
+
+### 🧠 AI-Stroke-Shield
+An AI-powered diagnostic assistant for stroke detection using medical imaging and predictive modeling.  
+**Tech:** Python, Scikit-learn, OpenCV  
+**Topics:** ai, ml, school-project  
+🔗 [View Repo](https://github.com/SIDNEY081/AI-Stroke-Shield)
+
+---
+
+### 💬 ChatBot Assistant
+A conversational AI chatbot built for academic support and campus FAQs.  
+**Tech:** Python, NLP, Flask  
+**Topics:** chatbot, ai, school-project  
+🔗 [View Repo](https://github.com/SIDNEY081/ChatBot-Assistant)
+
+---
+
+### 🌐 Portfolio Site
+My personal portfolio showcasing skills, projects, and GitHub stats with dynamic styling and automation.  
+**Tech:** HTML, CSS, JavaScript  
+**Topics:** portfolio, frontend, automation  
+🔗 [View Repo](https://github.com/SIDNEY081/Sidney081.github.io)
 
 ---
 
