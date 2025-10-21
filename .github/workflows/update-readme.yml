@@ -2,7 +2,7 @@ name: 🛠️ Update README with Latest Projects
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Daily at midnight UTC
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
   workflow_dispatch:
 
 jobs:
