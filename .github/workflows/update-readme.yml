@@ -22,4 +22,4 @@ jobs:
           projects_heading: "## 🚀 Latest Projects"
           projects_start_tag: "<!--START_SECTION:projects-->"
           projects_end_tag: "<!--END_SECTION:projects-->"
-          topics: "portfolio,iot,ai,school-project,embedded"
+          topics: "android,school-project,ai,chatbot"
