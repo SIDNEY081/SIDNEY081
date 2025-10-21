@@ -57,13 +57,12 @@ An AI-powered diagnostic assistant for stroke detection using medical imaging an
 **Topics:** ai, ml, school-project  
 🔗 [View Repo](https://github.com/SIDNEY081/AI-Stroke-Shield)
 
----
 
-### 💬 ChatBot Assistant
-A conversational AI chatbot built for academic support and campus FAQs.  
-**Tech:** Python, NLP, Flask  
-**Topics:** chatbot, ai, school-project  
-🔗 [View Repo](https://github.com/SIDNEY081/ChatBot-Assistant)
+
+### 🏢 MICTSETA Recruitment System
+A Django-based recruitment platform with secure authentication, job seeker dashboards, and admin controls.  
+**Tech:** Django, HTML, Python, JavaScript  
+🔗 [View Repo](https://github.com/mictseta-recruitment-system/mictseta_recruitment_system)
 
 ---
 
