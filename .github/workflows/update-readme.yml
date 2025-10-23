@@ -1,25 +1,32 @@
-name: 🛠️ Update README with Latest Projects
-
+name: Update Profile
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+    - cron: '0 */6 * * *'  # Every 6 hours
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      - name: Update README with Projects
-        uses: kyleqqq/github-profile-readme-projects@main
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Update recent activity
+        uses: jamesgeorge007/github-activity-readme@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          max_projects: 6
-          sort_by: updated
-          readme_path: README.md
-          projects_heading: "## 🚀 Latest Projects"
-          projects_start_tag: "<!--START_SECTION:projects-->"
-          projects_end_tag: "<!--END_SECTION:projects-->"
-          topics: "android,school-project,ai,chatbot"
+          GH_USERNAME: ${{ github.repository_owner }}
+          COMMIT_COUNT: 10
+          MAX_LINES: 15
+          
+      - name: Update recent repositories
+        uses: varunsridharan/action-repos-to-readme@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          MAX_REPOS: 6
+          EXCLUDE_REPOS: "SIDNEY081"
+          HEADER: "### 🚀 Recent Projects\n"
+          STYLE: "vertical"
+          FIELDS: "name,description,updated,url"
