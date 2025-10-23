@@ -11,14 +11,10 @@
 ## 📈 GitHub Activity
 
 ### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-<!-- This section will automatically update withlatest GitHub activity -->
-<!--END_SECTION:activity-->
+
 
 ### 🚀 Recent Projects
-<!--START_SECTION:repos-->
-<!-- This section will automatically update with latest repositories -->
-<!--END_SECTION:repos-->
+
 
 ### 📊 GitHub Stats
 
