@@ -1,33 +1,20 @@
 name: Update Profile
 on:
-  schedule:
-    - cron: '0 9,17 * * *'  # 9 AM and 5 PM daily
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
+      - uses: actions/checkout@v4
+      
+      - name: Add timestamp
+        run: echo "Sidney081 - $(date)" > timestamp.txt
           
-      - name: Install dependencies
-        run: pip install requests PyGithub
-          
-      - name: Update activity with real GitHub data
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python .github/scripts/update_activity.py
-          
-      - name: Commit and push changes
+      - name: Commit
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add README.md
-          git diff --staged --quiet || git commit -m "📈 Update activity - $(date)"
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add -A
+          git commit -m "Update Sidney081" || exit 0
           git push
