@@ -17,7 +17,7 @@ def update_activity():
 📌 **Recent Activity:**
 1. 🔨 Working on SafeShell Android app
 2. 🧠 Developing AI-Stroke-Shield project  
-3. 🌐 Building portfolio website
+3. 🏢 Enhancing MICTSETA Recruitment System
 4. 📚 Learning Embedded Systems @ VUT
 5. ⚡ Exploring IoT & AI technologies
 
