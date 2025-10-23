@@ -1,0 +1,20 @@
+name: Test Sidney081 Update
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Create test file
+        run: echo "Sidney081 - Works! $(date)" > test.txt
+          
+      - name: Commit test
+        run: |
+          git config user.name "Sidney081 Bot"
+          git config user.email "action@github.com"
+          git add test.txt
+          git commit -m "Test: Sidney081 automation" || exit 0
+          git push
