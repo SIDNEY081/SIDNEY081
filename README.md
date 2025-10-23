@@ -64,6 +64,11 @@ AI-powered diagnostic assistant for stroke detection
 **Tech:** Python, Scikit-learn, OpenCV  
 🔗 [View Repo](https://github.com/SIDNEY081/AI-Stroke-Shield)
 
+### 🏢 MICTSETA Recruitment System
+Django-based recruitment platform with secure authentication and admin controls  
+**Tech:** Django, Python, JavaScript, HTML, CSS  
+🔗 [View Repo](https://github.com/mictseta-recruitment-system/mictseta_recruitment_system)
+
 ---
 
 ## 🧠 Currently Learning
