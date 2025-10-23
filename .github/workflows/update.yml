@@ -1,20 +1,22 @@
-name: Test Sidney081 Update
+name: Update Profile
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 9 * * *'  # Daily at 9 AM
 
 jobs:
-  test:
+  update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       
-      - name: Create test file
-        run: echo "Sidney081 - Works! $(date)" > test.txt
+      - name: Update activity with Python script
+        run: python .github/scripts/update_activity.py
           
-      - name: Commit test
+      - name: Commit changes
         run: |
-          git config user.name "Sidney081 Bot"
+          git config user.name "GitHub Action"
           git config user.email "action@github.com"
-          git add test.txt
-          git commit -m "Test: Sidney081 automation" || exit 0
+          git add README.md
+          git diff --staged --quiet || git commit -m "🔄 Update Sidney081 activity - $(date)"
           git push
