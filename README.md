@@ -11,10 +11,9 @@
 ## 📈 GitHub Activity
 
 ### ⚡ Recent Activity
-
-
-### 🚀 Recent Projects
-
+<!--START_SECTION:activity-->
+* Loading recent activity...
+<!--END_SECTION:activity-->
 
 ### 📊 GitHub Stats
 
@@ -53,7 +52,7 @@
 
 ## 🎯 Featured Projects
 
-*These are to showcase my best work*
+*These are manually curated to showcase my best work*
 
 ### 🛡️ SafeShell
 Android safety app with disguised banking access and emergency alerts  
@@ -86,4 +85,4 @@ AI-powered diagnostic assistant for stroke detection
 
 ## 🛠️ Automation Status
 
-![Auto Update](https://github.com/SIDNEY081/SIDNEY081/actions/workflows/update-profile.yml/badge.svg)
+![Auto Update](https://github.com/SIDNEY081/SIDNEY081/actions/workflows/update.yml/badge.svg)
