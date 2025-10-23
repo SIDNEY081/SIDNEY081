@@ -53,7 +53,7 @@
 
 ## 🎯 Featured Projects
 
-*These are manually curated to showcase my best work*
+*These are to showcase my best work*
 
 ### 🛡️ SafeShell
 Android safety app with disguised banking access and emergency alerts  
