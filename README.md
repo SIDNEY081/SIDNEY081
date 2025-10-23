@@ -48,7 +48,25 @@
 
 ---
 
-## 🎯 Featured Projects
+## 🚀 Featured Projects
+
+### Dynamic Project Cards
+<div align="center">
+
+[![SafeShell](https://github-readme-stats.vercel.app/api/pin/?username=Sidney081&repo=SafeShell&theme=radical)](https://github.com/Sidney081/SafeShell)
+[![AI-Stroke-Shield](https://github-readme-stats.vercel.app/api/pin/?username=Sidney081&repo=AI-Stroke-Shield&theme=radical)](https://github.com/Sidney081/AI-Stroke-Shield)
+[![Movie Finding Made Easy](https://github-readme-stats.vercel.app/api/pin/?username=Sidney081&repo=Movie_Finding_Made_Easy&theme=radical)](https://github.com/SIDNEY081/Movie_Finding_Made_Easy)
+
+</div>
+
+---
+
+## 📂 All Projects
+
+### 🎬 Movie Finding Made Easy
+Web application for discovering and exploring movies with a cinematic interface  
+**Tech:** HTML, CSS, JavaScript, PHP  
+🔗 [View Repo](https://github.com/SIDNEY081/Movie_Finding_Made_Easy)
 
 ### 🛡️ SafeShell
 Android safety app with disguised banking access and emergency alerts  
@@ -64,6 +82,13 @@ AI-powered diagnostic assistant for stroke detection
 Django-based recruitment platform with secure authentication and admin controls  
 **Tech:** Django, Python, JavaScript, HTML, CSS  
 🔗 [View Repo](https://github.com/mictseta-recruitment-system/mictseta_recruitment_system)
+
+### 🌐 Portfolio Site
+My personal portfolio showcasing skills, projects, and GitHub stats  
+**Tech:** HTML, CSS, JavaScript  
+🔗 [View Repo](https://github.com/Sidney081/Sidney081.github.io)
+
+<!-- Add new projects below this line as you create them -->
 
 ---
 
