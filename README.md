@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sidney Mpenyana
 
-![Profile Views](https://komarev.com/ghpvc/?username=SIDNEY081&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Sidney081&color=blue)
 
 🎓 Final-year IT Student @ Vaal University of Technology  
 💻 Passionate about **Software Development**, **Embedded Systems**, and **AI**  
@@ -8,18 +8,16 @@
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Stats
 
-### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-* Loading recent activity...
-<!--END_SECTION:activity-->
+<!-- GitHub Stats Cards -->
+<div align="center">
+  
+![Sidney's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sidney081&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidney081&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sidney081&theme=radical&hide_border=true)
 
-### 📊 GitHub Stats
-
-![Sidney's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SIDNEY081&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SIDNEY081&layout=compact&langs_count=10&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SIDNEY081&theme=radical)
+</div>
 
 ---
 
@@ -52,17 +50,15 @@
 
 ## 🎯 Featured Projects
 
-*These are manually curated to showcase my best work*
-
 ### 🛡️ SafeShell
 Android safety app with disguised banking access and emergency alerts  
 **Tech:** Kotlin, Jetpack Compose, Firebase  
-🔗 [View Repo](https://github.com/SIDNEY081/SafeShell)
+🔗 [View Repo](https://github.com/Sidney081/SafeShell)
 
 ### 🧠 AI-Stroke-Shield
 AI-powered diagnostic assistant for stroke detection  
 **Tech:** Python, Scikit-learn, OpenCV  
-🔗 [View Repo](https://github.com/SIDNEY081/AI-Stroke-Shield)
+🔗 [View Repo](https://github.com/Sidney081/AI-Stroke-Shield)
 
 ### 🏢 MICTSETA Recruitment System
 Django-based recruitment platform with secure authentication and admin controls  
@@ -88,6 +84,9 @@ Django-based recruitment platform with secure authentication and admin controls
 
 ---
 
-## 🛠️ Automation Status
+## ⚡ Recent Activity
 
-![Auto Update](https://github.com/SIDNEY081/SIDNEY081/actions/workflows/update.yml/badge.svg)
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+*<!--RECENT_ACTIVITY:last_update-->*
