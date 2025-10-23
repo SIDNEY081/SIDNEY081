@@ -3,6 +3,8 @@ on:
   schedule:
     - cron: '0 */6 * * *'  # Every 6 hours
   workflow_dispatch:
+  push:
+    branches: [ main ]
 
 jobs:
   update-readme:
@@ -17,16 +19,22 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           GH_USERNAME: ${{ github.repository_owner }}
-          COMMIT_COUNT: 10
-          MAX_LINES: 15
-          
+          COMMIT_COUNT: 8
+          MAX_LINES: 12
+
       - name: Update recent repositories
-        uses: varunsridharan/action-repos-to-readme@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: iamsarthaksharma/repos-to-markdown@v1
         with:
+          ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: 6
-          EXCLUDE_REPOS: "SIDNEY081"
-          HEADER: "### 🚀 Recent Projects\n"
-          STYLE: "vertical"
-          FIELDS: "name,description,updated,url"
+          EXCLUDE: "SIDNEY081"
+          STYLE: "list"
+          
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --staged --quiet || git commit -m "Update dynamic content"
+          git push
