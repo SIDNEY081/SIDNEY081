@@ -1,10 +1,8 @@
 name: Update Profile
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Every 6 hours
+    - cron: '0 9,17 * * *'  # 9 AM and 5 PM daily
   workflow_dispatch:
-  push:
-    branches: [ main ]
 
 jobs:
   update-readme:
@@ -13,28 +11,23 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         
-      - name: Update recent activity
-        uses: jamesgeorge007/github-activity-readme@v1
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+          
+      - name: Install dependencies
+        run: pip install requests PyGithub
+          
+      - name: Update activity with real GitHub data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          GH_USERNAME: ${{ github.repository_owner }}
-          COMMIT_COUNT: 8
-          MAX_LINES: 12
-
-      - name: Update recent repositories
-        uses: iamsarthaksharma/repos-to-markdown@v1
-        with:
-          ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-          MAX_REPOS: 6
-          EXCLUDE: "SIDNEY081"
-          STYLE: "list"
+        run: python .github/scripts/update_activity.py
           
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git diff --staged --quiet || git commit -m "Update dynamic content"
+          git diff --staged --quiet || git commit -m "📈 Update activity - $(date)"
           git push
