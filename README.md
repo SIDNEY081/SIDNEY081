@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=SIDNEY081&color=blue)
 
 🎓 **Final-year IT Student** @ Vaal University of Technology  
-💻 **Software Developer** specializing in Development Software, Full-Stack Developer
+💻 Specializing in **Development Software,I am a Full-Stack Developer**
 🚀 **Seeking Internship Opportunities** for 2026
 ⚡ Passionate about **AI Solutions**, **Embedded Systems**, and **Innovative Software**
 
