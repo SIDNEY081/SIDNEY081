@@ -3,11 +3,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=SIDNEY081&color=blue)
 
 🎓 **Final-year IT Student** @ Vaal University of Technology  
-💻 Specializing in **Development Software,I am a Full-Stack Developer**
+💻 Specializing in **Development Software | Full-Stack Developer**  
+🌐 **Networking & IT Essentials** Certified
 
-🚀 **Seeking Internship /Graduate Programme Opportunities & Junior Developer Job** for 2026
+🚀 **Seeking Internship / Graduate Programme Opportunities & Junior Developer Job** for 2026
 
-⚡ Passionate about **AI Solutions**, **Embedded Systems**, and **Innovative Software**
+⚡ Passionate about **AI Solutions**, **Embedded Systems**, **Networking**, and **Innovative Software**
 
 ---
 
@@ -59,12 +60,21 @@
 
 </div>
 
-### 🔌 **Embedded Systems & IoT**
+### 🔌 **Networking & IT Infrastructure**
+<div align="center">
+
+![Network Fundamentals](https://img.shields.io/badge/Network_Fundamentals-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)
+![IT Essentials](https://img.shields.io/badge/IT_Essentials-217346?style=for-the-badge&logo=compTIA&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Troubleshooting](https://img.shields.io/badge/Troubleshooting-FF6B35?style=for-the-badge&logo=wireshark&logoColor=white)
+
+</div>
+
+### 🔧 **Embedded Systems & IoT**
 <div align="center">
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 </div>
@@ -143,6 +153,8 @@
 - **💡 Problem-Solving Skills:** Strong analytical abilities to tackle complex challenges
 - **🚀 Quick Learning:** Adaptable and eager to learn new technologies
 - **🔧 Full-Stack Capability:** Experience across frontend, backend, and mobile development
+- **🌐 Networking Knowledge:** Understanding of network fundamentals and IT infrastructure
+- **🔌 IT Essentials:** Comprehensive knowledge of hardware, software, and troubleshooting
 - **🤖 AI/ML Interest:** Passion for implementing intelligent solutions
 - **📱 Mobile Development:** Android app development experience
 - **🌐 Web Development:** Modern web technologies and frameworks
@@ -167,7 +179,7 @@
 
 - **🤖 Machine Learning** for real-world applications
 - **📱 Jetpack Compose** for modern Android UI development
-- **🔌 Embedded Systems Programming** with microcontrollers
+- **🖥️ IT Infrastructure Management** and best practices
 - **☁️ Cloud Technologies** and deployment strategies
 - **🧩 Real-time System Integration** for IoT projects
 
@@ -192,6 +204,7 @@ I'm actively seeking **internship positions** where I can:
 - 🎯 Apply my technical skills to real-world challenges
 - 📚 Learn from experienced developers and mentors  
 - 🔧 Contribute to meaningful software projects
+- 🌐 Utilize my networking and IT infrastructure knowledge
 - 🚀 Grow as a professional software developer
 
 **Interested in collaborating?** Feel free to reach out!
