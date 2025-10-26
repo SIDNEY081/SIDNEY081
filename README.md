@@ -4,7 +4,9 @@
 
 🎓 **Final-year IT Student** @ Vaal University of Technology  
 💻 Specializing in **Development Software,I am a Full-Stack Developer**
+
 🚀 **Seeking Internship /Graduate Programme Opportunities & Junior Developer Job** for 2026
+
 ⚡ Passionate about **AI Solutions**, **Embedded Systems**, and **Innovative Software**
 
 ---
@@ -24,6 +26,7 @@
 ## 💼 Professional Status
 
 🔍 **Currently:** Seeking Software Development Internship/Graduate Programme & Junior Developer Job 
+
 🎯 **Availability:** Immediate Start  
 📅 **Duration:** 12-24 months  
 📍 **Location:** Gauteng, South Africa (Open to relocate)
