@@ -1,117 +1,209 @@
 # 👋 Hi, I'm Sidney Mpenyana
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sidney081&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=SIDNEY081&color=blue)
 
-🎓 Final-year IT Student @ Vaal University of Technology  
-💻 Passionate about **Software Development**, **Embedded Systems**, and **AI**  
-⚡ Exploring IoT, real-time system design, and conversational interfaces  
+🎓 **Final-year IT Student** @ Vaal University of Technology  
+💻 **Software Developer** specializing in Development Software, Full-Stack Developer
+🚀 **Seeking Internship Opportunities** for 2026
+⚡ Passionate about **AI Solutions**, **Embedded Systems**, and **Innovative Software**
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Quick Overview
 
-<!-- GitHub Stats Cards -->
 <div align="center">
-  
-![Sidney's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sidney081&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidney081&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sidney081&theme=radical&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SIDNEY081&show_icons=true&theme=radical&hide_border=true&bg_color=00000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SIDNEY081&layout=compact&theme=radical&hide_border=true&bg_color=00000000)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SIDNEY081&theme=radical&hide_border=true&background=00000000)
 
 </div>
 
 ---
 
-## 🔧 Tech Stack & Tools
+## 💼 Professional Status
 
-### 💻 Languages
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cpp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
-
-### 🔌 Embedded & Platforms
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-FF8000?style=flat&logo=Mathworks&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
-### 🛠️ IDEs & Tools
-![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Notepad++](https://img.shields.io/badge/-Notepad++-90E59A?style=flat&logo=notepadplusplus&logoColor=black)
+🔍 **Currently:** Seeking Software Development Internship  
+🎯 **Availability:** Immediate Start  
+📅 **Duration:** 12-24 months  
+📍 **Location:** Gauteng, South Africa (Open to relocate)
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technical Skills
 
-### Dynamic Project Cards
+### 💻 **Programming Languages**
 <div align="center">
 
-[![SafeShell](https://github-readme-stats.vercel.app/api/pin/?username=Sidney081&repo=SafeShell&theme=radical)](https://github.com/Sidney081/SafeShell)
-[![AI-Stroke-Shield](https://github-readme-stats.vercel.app/api/pin/?username=Sidney081&repo=AI-Stroke-Shield&theme=radical)](https://github.com/Sidney081/AI-Stroke-Shield)
-[![Movie Finding Made Easy](https://github-readme-stats.vercel.app/api/pin/?username=Sidney081&repo=Movie_Finding_Made_Easy&theme=radical)](https://github.com/SIDNEY081/Movie_Finding_Made_Easy)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+</div>
+
+### 🌐 **Web Technologies**
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+</div>
+
+### 🔌 **Embedded Systems & IoT**
+<div align="center">
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+</div>
+
+### 🛠️ **Development Tools**
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
 ---
 
-## 📂 All Projects
+## 🎯 Featured Projects
 
-### 🎬 Movie Finding Made Easy
-Web application for discovering and exploring movies with a cinematic interface  
-**Tech:** HTML, CSS, JavaScript, PHP  
-🔗 [View Repo](https://github.com/SIDNEY081/Movie_Finding_Made_Easy)
+### 🚀 **Active Development**
 
-### 🛡️ SafeShell
-Android safety app with disguised banking access and emergency alerts  
-**Tech:** Kotlin, Jetpack Compose, Firebase  
-🔗 [View Repo](https://github.com/Sidney081/SafeShell)
+<div align="center">
 
-### 🧠 AI-Stroke-Shield
-AI-powered diagnostic assistant for stroke detection  
-**Tech:** Python, Scikit-learn, OpenCV  
-🔗 [View Repo](https://github.com/Sidney081/AI-Stroke-Shield)
+[![SafeShell Android App](https://github-readme-stats.vercel.app/api/pin/?username=SIDNEY081&repo=SafeShell&theme=radical&show_owner=true)](https://github.com/SIDNEY081/SafeShell)
+[![Movie Finding Made Easy](https://github-readme-stats.vercel.app/api/pin/?username=SIDNEY081&repo=Movie_Finding_Made_Easy&theme=radical&show_owner=true)](https://github.com/SIDNEY081/Movie_Finding_Made_Easy)
 
-### 🏢 MICTSETA Recruitment System
-Django-based recruitment platform with secure authentication and admin controls  
-**Tech:** Django, Python, JavaScript, HTML, CSS  
-🔗 [View Repo](https://github.com/mictseta-recruitment-system/mictseta_recruitment_system)
+</div>
 
-### 🌐 Portfolio Site
-My personal portfolio showcasing skills, projects, and GitHub stats  
-**Tech:** HTML, CSS, JavaScript  
-🔗 [View Repo](https://github.com/Sidney081/Sidney081.github.io)
+### ✅ **Completed Projects**
 
-<!-- Add new projects below this line as you create them -->
+<div align="center">
+
+[![AI Stroke Shield](https://github-readme-stats.vercel.app/api/pin/?username=SIDNEY081&repo=AI-Stroke-Shield&theme=radical&show_owner=true)](https://github.com/SIDNEY081/AI-Stroke-Shield)
+[![MICT SETA Recruitment](https://github-readme-stats.vercel.app/api/pin/?username=mictseta-recruitment-system&repo=mictseta_recruitment_system&theme=radical&show_owner=true)](https://github.com/mictseta-recruitment-system/mictseta_recruitment_system)
+
+</div>
 
 ---
 
-## 🧠 Currently Learning
+## 📊 Project Highlights
 
-- 🔧 Embedded C & microcontroller programming  
-- 📡 Real-time system integration (VCU project)  
-- 🤖 Conversational AI (AI Chatbot project)  
-- 🧩 Jetpack Compose for Android UI  
+### 🛡️ **SafeShell** - Android Safety Application
+**Status:** 🚧 In Progress  
+**Tech Stack:** Java, Android Studio, Firebase  
+**Features:** Emergency alerts, disguised banking access, real-time location sharing  
+🔗 [View Repository](https://github.com/SIDNEY081/SafeShell)
+
+### 🎬 **Movie Finding Made Easy** - Web Application
+**Status:** 🚧 In Progress  
+**Tech Stack:** JavaScript, HTML5, CSS3, PHP  
+**Features:** Advanced movie search, filtering, cinematic interface  
+🔗 [View Repository](https://github.com/SIDNEY081/Movie_Finding_Made_Easy)
+
+### 🧠 **AI Stroke Shield** - Healthcare Solution
+**Status:** ✅ Completed  
+**Tech Stack:** Python, Scikit-learn, OpenCV, Machine Learning  
+**Features:** AI-powered stroke detection and prevention system  
+🔗 [View Repository](https://github.com/SIDNEY081/AI-Stroke-Shield)
+
+### 💼 **MICT SETA Recruitment System**
+**Status:** ✅ Completed  
+**Tech Stack:** Django, Python, JavaScript, SQL  
+**Features:** Secure recruitment platform with admin controls  
+🔗 [View Repository](https://github.com/mictseta-recruitment-system/mictseta_recruitment_system)
+
+### 🐍 **Python Learning Projects**
+**Status:** ✅ Completed  
+**Tech Stack:** Python, Various Libraries  
+**Features:** Collection of Python exercises and mini-applications  
+🔗 [View Repository](https://github.com/SIDNEY081/Python-Learning)
 
 ---
 
-## 🤝 Let's Connect
+## 🌟 What I Bring to Your Team
 
-📧 Email: **sidneympenyana@gmail.com**  
-🌐 LinkedIn: [Sidney Mpenyana](https://www.linkedin.com/in/sidney-mpenyana-891091147/)  
-📍 Gauteng, South Africa
+- **💡 Problem-Solving Skills:** Strong analytical abilities to tackle complex challenges
+- **🚀 Quick Learning:** Adaptable and eager to learn new technologies
+- **🔧 Full-Stack Capability:** Experience across frontend, backend, and mobile development
+- **🤖 AI/ML Interest:** Passion for implementing intelligent solutions
+- **📱 Mobile Development:** Android app development experience
+- **🌐 Web Development:** Modern web technologies and frameworks
 
 ---
 
-## ⚡ Recent Activity
+## 📈 GitHub Analytics
 
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
+<div align="center">
 
-*<!--RECENT_ACTIVITY:last_update-->*
+<!-- Dynamic GitHub Stats -->
+![](https://github-readme-activity-graph.vercel.app/graph?username=SIDNEY081&theme=react-dark&bg_color=00000000&hide_border=true&area=true)
+
+<!-- Contribution Stats -->
+![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=SIDNEY081)
+
+</div>
+
+---
+
+## 🎓 Currently Learning & Exploring
+
+- **🤖 Machine Learning** for real-world applications
+- **📱 Jetpack Compose** for modern Android UI development
+- **🔌 Embedded Systems Programming** with microcontrollers
+- **☁️ Cloud Technologies** and deployment strategies
+- **🧩 Real-time System Integration** for IoT projects
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+📧 **Email:** [sidneympenyana@gmail.com](mailto:sidneympenyana@gmail.com)  
+💼 **LinkedIn:** [Sidney Mpenyana](https://linkedin.com/in/sidney-mpenyana)  
+📱 **Phone:** +27 81 056 5675  
+🌍 **Location:** Gauteng, South Africa
+
+</div>
+
+---
+
+## 💡 Open to Opportunities
+
+I'm actively seeking **internship positions** where I can:
+- 🎯 Apply my technical skills to real-world challenges
+- 📚 Learn from experienced developers and mentors  
+- 🔧 Contribute to meaningful software projects
+- 🚀 Grow as a professional software developer
+
+**Interested in collaborating?** Feel free to reach out!
+
+---
+
+<div align="center">
+
+### 🚀 *"Passionate about turning ideas into functional, efficient software solutions"*
+
+⭐ **Star** my repositories if you find them interesting!  
+🔔 **Follow** for updates on my latest projects
+
+</div>
+
+---
+
+*Last Updated: {{CURRENT_TIMESTAMP}}*
