@@ -8,7 +8,8 @@
 
 🚀 **Open to Junior Developer Roles, IT Graduate Programmes & Internships**
 
-⚡ **Work Arrangement:** Remote, Hybrid, or On-site (South Africa)
+⚡ **Work Arrangement:** Remote, Hybrid, or On-site (South Africa)  
+📍 **Willing to relocate** within South Africa
 
 ---
 
@@ -28,7 +29,7 @@
 
 🔍 **Currently:** Junior Developer seeking opportunities  
 🎯 **Availability:** Immediate Start  
-📍 **Location:** South Africa  
+📍 **Location:** South Africa (Willing to relocate)  
 💼 **Open to:** Remote, Hybrid, or On-site roles
 
 ---
@@ -96,7 +97,7 @@
 📧 **Email:** [sidneympenyana@gmail.com](mailto:sidneympenyana@gmail.com)  
 📱 **Phone:** +27 81 056 5675  
 💼 **LinkedIn:** [Sidney Mpenyana](https://linkedin.com/in/sidney-mpenyana)  
-🌍 **Location:** South Africa
+🌍 **Location:** South Africa (Willing to relocate)
 
 ---
 
@@ -105,7 +106,7 @@
 ✅ **Status:** Actively seeking junior developer roles  
 🎯 **Focus:** Full-stack development, Web applications  
 🚀 **Availability:** Immediate  
-📍 **Preferred:** Onsite, Remote or Hybrid (South Africa)
+📍 **Work Preference:** Remote, Hybrid, or On-site (Willing to relocate within South Africa)
 
 ---
 
