@@ -105,7 +105,7 @@
 ✅ **Status:** Actively seeking junior developer roles  
 🎯 **Focus:** Full-stack development, Web applications  
 🚀 **Availability:** Immediate  
-📍 **Preferred:** Remote or Hybrid (South Africa)
+📍 **Preferred:** Onsite, Remote or Hybrid (South Africa)
 
 ---
 
