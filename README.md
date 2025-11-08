@@ -56,7 +56,8 @@
 ### 🗄️ **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
 
 
 ### 🔌 **IT Infrastructure**
@@ -108,12 +109,6 @@
 **Description:** Healthcare application focused on stroke prediction and prevention using machine learning algorithms and computer vision for early detection.  
 **Key Features:** Stroke risk assessment, ML predictions, data visualization, healthcare analytics  
 🔗 **[View Repository](https://github.com/SIDNEY081/AI-Stroke-Shield)**
-
-### 🛡️ **SafeShell Android App** [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](https://github.com/SIDNEY081/SafeShell)
-**Tech Stack:** Java, Android Studio, XML, SQLite  
-**Description:** Android safety application with emergency features, location sharing, and quick access to emergency contacts for personal security.  
-**Key Features:** Emergency alerts, location sharing, contact management, safety tools  
-🔗 **[View Repository](https://github.com/SIDNEY081/SafeShell)**
 
 ### 🐍 **Python Learning** [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/SIDNEY081/Python_Learning)
 **Tech Stack:** Python, Various Libraries  
