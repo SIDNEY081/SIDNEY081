@@ -91,7 +91,7 @@
 ### 🎓 **Certifications**
 ![IT Essentials](https://img.shields.io/badge/IT%20Essentials-217346?style=for-the-badge&logo=compTIA&logoColor=white)
 ![Networking](https://img.shields.io/badge/Introduction%20to%20Networks-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)
-![Diploma in IT](https://img.shields.io/badge/Diploma%20in%20IT-8A2BE2?style=for-the-badge&logo=graduation-cap&logoColor=white)
+
 
 ---
 
