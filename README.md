@@ -4,7 +4,8 @@
 ![Hireable](https://img.shields.io/badge/AVAILABLE%20FOR%20WORK-HIRE%20ME!-success)
 
 💻 **Junior Developer** | **Full-Stack Developer**  
-🎓 **IT Graduate** - Vaal University of Technology  
+🎓 **Education:** **Diploma in Information Technology** - Vaal University of Technology  
+✅ **Coursework Completed 2025** | 🎓 **Graduating Autumn 2026**
 🌐 **Networking & IT Essentials Certified**
 
 🚀 **Open to Junior Developer Roles, IT Graduate Programmes & Internships**
@@ -50,8 +51,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=rest&logoColor=white)
 
 ### 🗄️ **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -65,13 +64,25 @@
 ![System Troubleshooting](https://img.shields.io/badge/System_Troubleshooting-FF6B35?style=for-the-badge&logo=wireshark&logoColor=white)
 ![IT Security Fundamentals](https://img.shields.io/badge/IT_Security_Fundamentals-000000?style=for-the-badge&logo=securityscorecard&logoColor=white)
 
-### 🛠️ **Frameworks & Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 🛠️ **Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+🛠️ Development Tools
+https://img.shields.io/badge/VS%2520Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white
+https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+
+### 💻 **Operating Systems**
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 ### 🤖 **AI & Machine Learning**
@@ -147,8 +158,8 @@
 ---
 
 ## 💼 Quick Facts
-
-- 🎓 **Education:** Diploma in Information Technology (Vaal University of Technology)
+- 🎓 **Education:** Diploma in Information Technology completed 2025 (Vaal University of Technology)
+- 📅 **Status:** All coursework completed, awaiting graduation ceremony
 - 📜 **Certifications:** IT Essentials, Introduction to Networks
 - 💻 **Focus Areas:** Full-Stack Development, Web Applications, Mobile Development
 - 🚀 **Career Goal:** Junior Developer role with growth opportunities
