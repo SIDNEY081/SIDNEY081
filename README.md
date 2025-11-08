@@ -71,15 +71,13 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-🛠️ Development Tools
+### 🛠️ **Development Tools
 https://img.shields.io/badge/VS%2520Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white
 https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white
 https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
 https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
 https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
 
 ### 💻 **Operating Systems**
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
