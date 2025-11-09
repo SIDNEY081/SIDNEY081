@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Sidney Mpenyana
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SIDNEY081&color=blue)
@@ -8,7 +7,7 @@
 🎓 **Education:** **Diploma in Information Technology** - Vaal University of Technology  
 ✅ **Coursework Completed 2025** | 🎓 **Graduating Autumn 2026**
 
-🌐 **Networking, Switching, Routing & Wireless Essential and IT Essentials Certified**
+🌐 **Networking & IT Essentials Certified**
 
 🚀 **Open to Junior Developer Roles, IT Graduate Programmes & Internships**
 
@@ -169,39 +168,6 @@
 ⭐ **Star my repositories if you find them interesting!**
   
 📬 **Feel free to reach out for collaborations or opportunities!**
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-
-</div>
-🌐 **Networking, Switching, Routing & Wireless Essential and IT Essentials Certified**
-
-🚀 **Open to Junior Developer Roles, IT Graduate Programmes & Internships**
-
-⚡ **Work Arrangement:** Remote, Hybrid, or On-site (South Africa)  
-📍 **Willing to relocate** within South Africa
-
----
-
-## 🚀 Quick Overview
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SIDNEY081&show_icons=true&theme=radical&hide_border=true&bg_color=00000000)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SIDNEY081&layout=compact&theme=radical&hide_border=true&bg_color=00000000)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SIDNEY081&theme=radical&hide_border=true&background=00000000)
-
-</div>
-
----
-
-## 💼 Professional Status
-
-🎯 **Currently:** Actively seeking junior developer opportunities  
-🚀 **Availability:** Immediate Start  
-📍 **Location:** South Africa (Willing to relocate nationally)  
-💼 **Open to:** Remote • Hybrid • On-site roles
-
-
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
