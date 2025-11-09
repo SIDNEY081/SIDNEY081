@@ -1,11 +1,4 @@
-# 👋 Hi, I'm Sidney Mpenyana
 
-![Profile Views](https://komarev.com/ghpvc/?username=SIDNEY081&color=blue)
-![Hireable](https://img.shields.io/badge/AVAILABLE%20FOR%20WORK-HIRE%20ME!-success)
-
-💻 **Junior Developer** | **Full-Stack Developer**  
-🎓 **Education:** **Diploma in Information Technology** - Vaal University of Technology  
-✅ **Coursework Completed 2025** | 🎓 **Graduating Autumn 2026**
 # 👋 Hi, I'm Sidney Mpenyana
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SIDNEY081&color=blue)
