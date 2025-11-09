@@ -7,7 +7,7 @@
 🎓 **Education:** **Diploma in Information Technology** - Vaal University of Technology  
 ✅ **Coursework Completed 2025** | 🎓 **Graduating Autumn 2026**
 
-🌐 **Networking & IT Essentials Certified**
+🌐 **Networking, Switching, Routing & Wireless Essential and IT Essentials Certified**
 
 🚀 **Open to Junior Developer Roles, IT Graduate Programmes & Internships**
 
