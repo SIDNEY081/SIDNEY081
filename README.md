@@ -155,8 +155,7 @@
 - 🎓 **Education:** Diploma in Information Technology completed 2025 (Vaal University of Technology)
 - 📅 **Status:** All coursework completed, awaiting graduation ceremony
 - 📜 **Certifications:** IT Essentials, Introduction to Networks, Switching, Routing & Wireless Essentials *(Part of Diploma)*
-- 💻 **Focus Areas:** Full-Stack Development, Web Applications, Mobile Development
-- 🚀 **Career Goal:** Junior Developer role with growth opportunities
+🚀 **Career Goal:** Junior Developer role in Software Development or Network Engineering
 - 🌟 **Strengths:** Problem-solving, Quick learner, Adaptable, Team player
 
 ---
