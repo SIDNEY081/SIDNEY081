@@ -15,6 +15,20 @@
 📍 **Willing to relocate** within South Africa
 
 ---
+## 🌐 Portfolio & Live Projects
+
+<div align="center">
+
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sidney081.github.io/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://sidney081.github.io/)
+
+### 🔗 [sidney081.github.io](https://sidney081.github.io/)
+
+*Explore my interactive portfolio with live projects, skills showcase, and contact information*
+
+</div>
+
+---
 
 ## 🚀 Quick Overview
 
@@ -148,11 +162,13 @@
 
 📧 **Email:** [sidneympenyana@gmail.com](mailto:sidneympenyana@gmail.com)  
 📱 **Phone:** +27 81 056 5675  
+🌐 **Portfolio:** [sidney081.github.io](https://sidney081.github.io/)  
 💼 **LinkedIn:** [Sidney Mpenyana](https://linkedin.com/in/sidney-mpenyana)  
 🐙 **GitHub:** [SIDNEY081](https://github.com/SIDNEY081)  
 🌍 **Location:** South Africa (Willing to relocate nationally)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidneympenyana@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sidney081.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sidney-mpenyana)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SIDNEY081)
 
