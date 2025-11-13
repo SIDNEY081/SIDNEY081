@@ -45,7 +45,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### 🌐 **Web Technologies**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -53,12 +53,15 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+### 📱 **Mobile Development**
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Material Design](https://img.shields.io/badge/Material%20Design-6200EE?style=for-the-badge&logo=materialdesign&logoColor=white)
+
 ### 🗄️ **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
-
 
 ### 🔌 **IT Infrastructure**
 ![Network Configuration](https://img.shields.io/badge/Network_Configuration-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)
@@ -66,7 +69,7 @@
 ![System Troubleshooting](https://img.shields.io/badge/System_Troubleshooting-FF6B35?style=for-the-badge&logo=wireshark&logoColor=white)
 ![IT Security Fundamentals](https://img.shields.io/badge/IT_Security_Fundamentals-000000?style=for-the-badge&logo=securityscorecard&logoColor=white)
 
-### 🛠️ **Frameworks
+### 🛠️ **Frameworks**
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -77,12 +80,11 @@
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ### 💻 **Operating Systems**
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 
 ### 🤖 **AI & Machine Learning**
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -94,10 +96,17 @@
 ![Networking](https://img.shields.io/badge/Introduction%20to%20Networks-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)
 ![Switching, Routing & Wireless Essentials](https://img.shields.io/badge/Switching%2C%20Routing%20%26%20Wireless%20Essentials-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)
 
-
 ---
 
 ## 🎯 Featured Projects
+
+### 🛡️ **SafeShell App** [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://github.com/SIDNEY081/SafeShell) [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/SIDNEY081/SafeShell)
+**Status:** 🚧 **In Development & Learning**  
+**Tech Stack:** Kotlin, Android, Firebase, Material Design, Android Studio  
+**Description:** A modern Android security application focused on personal safety and emergency response. Currently developing while learning mobile development with Kotlin and Android ecosystem.  
+**Key Features:** Emergency contact notifications, Location sharing in critical situations, Quick access safety tools, Modern intuitive user interface  
+**Learning Focus:** Kotlin for Android, Firebase integration, Material Design, Mobile app architecture, Real-time data synchronization  
+🔗 **[View Repository](https://github.com/SIDNEY081/SafeShell)**
 
 ### 🎬 **Movie Finding Made Easy** [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://github.com/SIDNEY081/Movie_Finding_Made_Easy)
 **Tech Stack:** PHP, JavaScript, HTML5, CSS3, MySQL  
@@ -155,8 +164,9 @@
 - 🎓 **Education:** Diploma in Information Technology completed 2025 (Vaal University of Technology)
 - 📅 **Status:** All coursework completed, awaiting graduation ceremony
 - 📜 **Certifications:** IT Essentials, Introduction to Networks, Switching, Routing & Wireless Essentials *(Part of Diploma)*
-🚀 **Career Goal:** Junior Developer role in Software Development or Network Engineering
+- 🚀 **Career Goal:** Junior Developer role in Software Development or Network Engineering
 - 🌟 **Strengths:** Problem-solving, Quick learner, Adaptable, Team player
+- 📱 **Currently Learning:** Kotlin, Android Development, Firebase, Material Design
 
 ---
 
