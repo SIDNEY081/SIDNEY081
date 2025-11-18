@@ -120,7 +120,7 @@ Tech Stack: Kotlin, Android, Firebase, Material Design, Android Studio
 Description: A modern Android security application focused on personal safety and emergency response. Currently developing while learning mobile development with Kotlin and Android ecosystem.
 Key Features: Emergency contact notifications, Location sharing in critical situations, Quick access safety tools, Modern intuitive user interface
 Learning Focus: Kotlin for Android, Firebase integration, Material Design, Mobile app architecture, Real-time data synchronization
-🔗 View Repository | 🎯 Live Demo - In Development
+🔗 View Repository | 🎯 Live Demo | 📱 Mobile Demo
 
 🎬 Movie Finding Made Easy https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white
 Tech Stack: PHP, JavaScript, HTML5, CSS3, MySQL
@@ -140,12 +140,17 @@ Description: A comprehensive collection of Python scripts, projects, and learnin
 Key Features: Multiple projects, learning progression, code examples, practical applications
 🔗 View Repository | 🎯 Live Demo
 
+🏢 MICT SETA Recruitment System https://img.shields.io/badge/Web_Development-6B46C1?style=flat-square&logo=web&logoColor=white
+Tech Stack: Web Development, Database, Management System, JavaScript
+Description: Comprehensive recruitment management system for MICT SETA organization.
+Key Features: Candidate management system, Job posting and applications, Interview scheduling, Recruitment analytics
+🔗 View Repository | 🎯 Live Demo
+
 🌐 Portfolio Website https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white
 Tech Stack: HTML5, CSS3, JavaScript, GitHub Pages
 Description: My personal portfolio website showcasing my projects, skills, and professional background.
 Key Features: Responsive design, project showcase, contact information, modern UI/UX
 🔗 View Repository | 🎯 Live Demo
-
 ## 📊 GitHub Analytics
 
 <div align="center">
