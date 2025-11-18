@@ -114,43 +114,63 @@
 
 ## 🎯 Featured Projects
 
-🛡️ SafeShell App https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white
+## 🛡️ SafeShell App
+https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white
+https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white
+https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=web&logoColor=white
+https://img.shields.io/badge/Mobile_Demo-FF6B35?style=flat-square&logo=appetize&logoColor=white
+https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white
+
 Status: 🚧 In Development & Learning
 Tech Stack: Kotlin, Android, Firebase, Material Design, Android Studio
 Description: A modern Android security application focused on personal safety and emergency response. Currently developing while learning mobile development with Kotlin and Android ecosystem.
 Key Features: Emergency contact notifications, Location sharing in critical situations, Quick access safety tools, Modern intuitive user interface
-Learning Focus: Kotlin for Android, Firebase integration, Material Design, Mobile app architecture, Real-time data synchronization
-🔗 View Repository | 🎯 Live Demo | 📱 Mobile Demo
 
-🎬 Movie Finding Made Easy https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white
+🎬 Movie Finding Made Easy
+https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white
+https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=web&logoColor=white
+https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white
+
 Tech Stack: PHP, JavaScript, HTML5, CSS3, MySQL
 Description: A comprehensive web application for discovering, searching, and exploring movies with detailed information, user ratings, and personalized recommendations.
 Key Features: Movie search, detailed information, user reviews, responsive design
-🔗 View Repository | 🎯 Live Demo
 
-🧠 AI Stroke Shield https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
+## 🧠 AI Stroke Shield
+https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
+https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=streamlit&logoColor=white
+https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white
+
 Tech Stack: Python, Machine Learning, OpenCV, TensorFlow
 Description: Healthcare application focused on stroke prediction and prevention using machine learning algorithms and computer vision for early detection.
 Key Features: Stroke risk assessment, ML predictions, data visualization, healthcare analytics
-🔗 View Repository | 🎯 Live Demo
 
-🐍 Python Learning https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
+## 🐍 Python Learning
+https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
+https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=web&logoColor=white
+https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white
+
 Tech Stack: Python, Various Libraries
 Description: A comprehensive collection of Python scripts, projects, and learning materials showcasing Python programming skills and problem-solving abilities.
 Key Features: Multiple projects, learning progression, code examples, practical applications
-🔗 View Repository | 🎯 Live Demo
 
-🏢 MICT SETA Recruitment System https://img.shields.io/badge/Web_Development-6B46C1?style=flat-square&logo=web&logoColor=white
+## 🏢 MICT SETA Recruitment System
+https://img.shields.io/badge/Web_Development-6B46C1?style=flat-square&logo=web&logoColor=white
+https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=web&logoColor=white
+https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white
+
 Tech Stack: Web Development, Database, Management System, JavaScript
 Description: Comprehensive recruitment management system for MICT SETA organization.
 Key Features: Candidate management system, Job posting and applications, Interview scheduling, Recruitment analytics
-🔗 View Repository | 🎯 Live Demo
 
-🌐 Portfolio Website https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white
+## 🌐 Portfolio Website
+https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white
+https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=web&logoColor=white
+https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white
+
 Tech Stack: HTML5, CSS3, JavaScript, GitHub Pages
 Description: My personal portfolio website showcasing my projects, skills, and professional background.
 Key Features: Responsive design, project showcase, contact information, modern UI/UX
-🔗 View Repository | 🎯 Live Demo
 ## 📊 GitHub Analytics
 
 <div align="center">
