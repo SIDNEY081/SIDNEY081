@@ -11,8 +11,8 @@
 
 🚀 **Open to Junior Developer Roles, IT Graduate Programmes & Internships**
 
-⚡ **Work Arrangement:** Remote, Hybrid, or On-site (South Africa)  
-📍 **Willing to relocate** within South Africa
+📍 Location: 415 Mokopa, Northam Mojuteng, Thabazimbi, Limpopo, South Africa
+🚗 Willing to relocate within South Africa
 
 ---
 ## 🌐 Portfolio & Live Projects
@@ -114,33 +114,37 @@
 
 ## 🎯 Featured Projects
 
-### 🛡️ **SafeShell App** [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://github.com/SIDNEY081/SafeShell) [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/SIDNEY081/SafeShell)
-**Status:** 🚧 **In Development & Learning**  
-**Tech Stack:** Kotlin, Android, Firebase, Material Design, Android Studio  
-**Description:** A modern Android security application focused on personal safety and emergency response. Currently developing while learning mobile development with Kotlin and Android ecosystem.  
-**Key Features:** Emergency contact notifications, Location sharing in critical situations, Quick access safety tools, Modern intuitive user interface  
-**Learning Focus:** Kotlin for Android, Firebase integration, Material Design, Mobile app architecture, Real-time data synchronization  
-🔗 **[View Repository](https://github.com/SIDNEY081/SafeShell)**
+🛡️ SafeShell App https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white
+Status: 🚧 In Development & Learning
+Tech Stack: Kotlin, Android, Firebase, Material Design, Android Studio
+Description: A modern Android security application focused on personal safety and emergency response. Currently developing while learning mobile development with Kotlin and Android ecosystem.
+Key Features: Emergency contact notifications, Location sharing in critical situations, Quick access safety tools, Modern intuitive user interface
+Learning Focus: Kotlin for Android, Firebase integration, Material Design, Mobile app architecture, Real-time data synchronization
+🔗 View Repository | 🎯 Live Demo - In Development
 
-### 🎬 **Movie Finding Made Easy** [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://github.com/SIDNEY081/Movie_Finding_Made_Easy)
-**Tech Stack:** PHP, JavaScript, HTML5, CSS3, MySQL  
-**Description:** A comprehensive web application for discovering, searching, and exploring movies with detailed information, user ratings, and personalized recommendations.  
-**Key Features:** Movie search, detailed information, user reviews, responsive design  
-🔗 **[View Repository](https://github.com/SIDNEY081/Movie_Finding_Made_Easy)**
+🎬 Movie Finding Made Easy https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white
+Tech Stack: PHP, JavaScript, HTML5, CSS3, MySQL
+Description: A comprehensive web application for discovering, searching, and exploring movies with detailed information, user ratings, and personalized recommendations.
+Key Features: Movie search, detailed information, user reviews, responsive design
+🔗 View Repository | 🎯 Live Demo
 
-### 🧠 **AI Stroke Shield** [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/SIDNEY081/AI-Stroke-Shield)
-**Tech Stack:** Python, Machine Learning, OpenCV, TensorFlow  
-**Description:** Healthcare application focused on stroke prediction and prevention using machine learning algorithms and computer vision for early detection.  
-**Key Features:** Stroke risk assessment, ML predictions, data visualization, healthcare analytics  
-🔗 **[View Repository](https://github.com/SIDNEY081/AI-Stroke-Shield)**
+🧠 AI Stroke Shield https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
+Tech Stack: Python, Machine Learning, OpenCV, TensorFlow
+Description: Healthcare application focused on stroke prediction and prevention using machine learning algorithms and computer vision for early detection.
+Key Features: Stroke risk assessment, ML predictions, data visualization, healthcare analytics
+🔗 View Repository | 🎯 Live Demo
 
-### 🐍 **Python Learning** [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/SIDNEY081/Python_Learning)
-**Tech Stack:** Python, Various Libraries  
-**Description:** A comprehensive collection of Python scripts, projects, and learning materials showcasing Python programming skills and problem-solving abilities.  
-**Key Features:** Multiple projects, learning progression, code examples, practical applications  
-🔗 **[View Repository](https://github.com/SIDNEY081/Python_Learning)**
+🐍 Python Learning https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
+Tech Stack: Python, Various Libraries
+Description: A comprehensive collection of Python scripts, projects, and learning materials showcasing Python programming skills and problem-solving abilities.
+Key Features: Multiple projects, learning progression, code examples, practical applications
+🔗 View Repository | 🎯 Live Demo
 
----
+🌐 Portfolio Website https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white
+Tech Stack: HTML5, CSS3, JavaScript, GitHub Pages
+Description: My personal portfolio website showcasing my projects, skills, and professional background.
+Key Features: Responsive design, project showcase, contact information, modern UI/UX
+🔗 View Repository | 🎯 Live Demo
 
 ## 📊 GitHub Analytics
 
