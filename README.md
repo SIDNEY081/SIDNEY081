@@ -91,7 +91,7 @@ A modern Android emergency & security application with real-time features, Fireb
 A full web platform for searching and exploring movies using dynamic filtering.
 
 🔗 **Links:**  
-[Live Demo](only source code for, live demo coming) • [Source Code](https://github.com/SIDNEY081/Movie_Finding_Made_Easy)
+[Live Demo](moviefindingmadeeasy.kesug.com) • [Source Code](https://github.com/SIDNEY081/Movie_Finding_Made_Easy)
 
 ---
 
