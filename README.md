@@ -13,6 +13,10 @@
   <img src="https://img.shields.io/badge/AVAILABLE_FOR_WORK-HIRE_ME!-brightgreen?style=flat-square" />
 </p>
 
+<p align="center">
+  🌐 <a href="https://sidney081.github.io/" target="_blank">Visit My Portfolio</a>
+</p>
+
 ---
 
 # 👨‍💻 About Me
@@ -59,7 +63,7 @@ Currently enhancing my skills in **Kotlin**, **Android Studio**, **Firebase**, a
 
 ---
 
-# 🚀Project Showcase
+# 🚀 Project Showcase
 
 Each project is now displayed as a **professional card** for recruiters.
 
@@ -143,7 +147,7 @@ End-to-end recruitment management web application for organizational use.
 
 <p align="center">
   <a href="mailto:sidneympenyana@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://sidney081.github.io"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white"></a>
+  <a href="https://sidney081.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/SIDNEY081"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
