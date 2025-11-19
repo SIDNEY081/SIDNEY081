@@ -21,9 +21,9 @@ I am a **Full-Stack & Android Developer** passionate about building modern, scal
 Currently enhancing my skills in **Kotlin**, **Android Studio**, **Firebase**, and **modern UI frameworks**.
 
 🎓 Diploma in Information Technology — *Vaal University of Technology*  
-📍 Limpopo, South Africa — open to relocation  
+📍 Limpopo, 415 Mokopa, Northam Mojuteng, Thabazimbi, South Africa — open to relocation  
 🚀 Seeking: *Junior Developer • Internship • Graduate Program*  
-💡 Strong foundation in software engineering, networking, troubleshooting, & systems
+💡 Strong foundation in: software engineering, networking, troubleshooting, & systems
 
 ---
 
@@ -37,7 +37,7 @@ Currently enhancing my skills in **Kotlin**, **Android Studio**, **Firebase**, a
 
 ---
 
-# 🎨 Tech Stack (Premium Icon Grid)
+# 🎨 Tech Stack 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,python,php,js,html,css,react,nodejs,mysql,sqlite,firebase,git,github,vscode,androidstudio&perline=8" />
@@ -59,7 +59,7 @@ Currently enhancing my skills in **Kotlin**, **Android Studio**, **Firebase**, a
 
 ---
 
-# 🚀 Project Showcase
+# 🚀Project Showcase
 
 Each project is now displayed as a **professional card** for recruiters.
 
@@ -75,7 +75,7 @@ Each project is now displayed as a **professional card** for recruiters.
 A modern Android emergency & security application with real-time features, Firebase integration, and intuitive UI.
 
 🔗 **Links:**  
-[Live Demo](https://example.com) • [Mobile Demo](https://example.com) • [Source Code](https://github.com/SIDNEY081/SafeShell)
+[Mobile Demo](https://appetize.io/app/b_oyu6nguofwkxisrlz4pa2tuipq?device=pixel7&osVersion=13.0&toolbar=true) • [Source Code](https://github.com/SIDNEY081/SafeShell)
 
 ---
 
@@ -86,7 +86,8 @@ A modern Android emergency & security application with real-time features, Fireb
 
 A full web platform for searching and exploring movies using dynamic filtering.
 
-🔗 [Live Demo](https://example.com) • [Source Code](https://github.com/SIDNEY081/MovieFinder)
+🔗 **Links:**  
+[Live Demo](#) • [Source Code](#)
 
 ---
 
@@ -97,15 +98,17 @@ A full web platform for searching and exploring movies using dynamic filtering.
 
 Predicting stroke risk using ML models + interactive UI through Streamlit.
 
-🔗 [Live Demo](https://example.com) • [Source Code](https://github.com/SIDNEY081/AI-Stroke-Shield)
+🔗 **Links:**  
+[Live Demo](https://ai-stroke-shield-8yw9ddvstkica4k3fodeep.streamlit.app/) • [Source Code](https://github.com/SIDNEY081/AI-Stroke-Shield)
 
 ---
 
 ## 🐍 Python Learning — Education Repository
 
-Structured library of Python exercises, automation scripts & OOP concepts.
+A structured library of Python exercises, automation scripts & OOP concepts.
 
-🔗 [Live Demo](https://example.com) • [Source Code](https://github.com/SIDNEY081/Python-Learning)
+🔗 **Links:**  
+[Live Demo](https://sidney081.github.io/Python_Learning/) • [Source Code](https://github.com/SIDNEY081/Python_Learning)
 
 ---
 
@@ -113,11 +116,12 @@ Structured library of Python exercises, automation scripts & OOP concepts.
 
 End-to-end recruitment management web application for organizational use.
 
-🔗 [Live Demo](https://example.com) • [Source Code](https://github.com/SIDNEY081/MICT-SETA-Recruitment)
+🔗 **Links:**  
+[Live Demo](#) • [Source Code](#)
 
 ---
 
-# 📊 GitHub Analytics (Premium Visual Set)
+# 📊 GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=SIDNEY081&show_icons=true&theme=radical&hide_border=true" />
@@ -127,7 +131,7 @@ End-to-end recruitment management web application for organizational use.
 
 ---
 
-# 🐍 Contribution Snake (Animated)
+# 🐍 Contribution 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
@@ -140,7 +144,7 @@ End-to-end recruitment management web application for organizational use.
 <p align="center">
   <a href="mailto:sidneympenyana@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://sidney081.github.io"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/sidney-mpenyana/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/SIDNEY081"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
