@@ -23,7 +23,7 @@ Currently enhancing my skills in **Kotlin**, **Android Studio**, **Firebase**, a
 🎓 Diploma in Information Technology — *Vaal University of Technology*  
 📍 Limpopo, South Africa — open to relocation  
 🚀 Seeking: *Junior Developer • Internship • Graduate Program*  
-💡 Strong foundation in: software engineering, networking, troubleshooting, & systems
+💡 Strong foundation in software engineering, networking, troubleshooting, & systems
 
 ---
 
@@ -52,14 +52,14 @@ Currently enhancing my skills in **Kotlin**, **Android Studio**, **Firebase**, a
 | **Frontend** | HTML5, CSS3, JavaScript, React |
 | **Backend** | PHP, Node.js, Express, Java |
 | **Mobile** | Android Studio, Kotlin, Firebase |
-| **Database** | MySQL, SQLite, PostgreSQL |
+| **Database** | MySQL, SQLite, MariaDB |
 | **AI/ML** | Python, TensorFlow, OpenCV |
 | **Infrastructure** | Networking, Troubleshooting, IT Essentials |
 | **Tools** | Git, GitHub, VS Code, NetBeans |
 
 ---
 
-# 🚀 Premium Project Showcase
+# 🚀 Project Showcase
 
 Each project is now displayed as a **professional card** for recruiters.
 
@@ -74,21 +74,19 @@ Each project is now displayed as a **professional card** for recruiters.
 **Description:**  
 A modern Android emergency & security application with real-time features, Firebase integration, and intuitive UI.
 
-🔗 **Links**  
-👉 [Live Demo](#)  
-👉 [Mobile Demo](#)  
-👉 [Source Code](#)
+🔗 **Links:**  
+[Live Demo](https://example.com) • [Mobile Demo](https://example.com) • [Source Code](https://github.com/SIDNEY081/SafeShell)
 
 ---
 
-## 🎬 Movie Finding Made Easy — Web App
+## 🎬 Movie Finder — Web App
 <div align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div>
 
 A full web platform for searching and exploring movies using dynamic filtering.
 
-🔗 [Live Demo](#) • [Source Code](#)
+🔗 [Live Demo](https://example.com) • [Source Code](https://github.com/SIDNEY081/MovieFinder)
 
 ---
 
@@ -99,15 +97,15 @@ A full web platform for searching and exploring movies using dynamic filtering.
 
 Predicting stroke risk using ML models + interactive UI through Streamlit.
 
-🔗 [Live Demo](#) • [Source Code](#)
+🔗 [Live Demo](https://example.com) • [Source Code](https://github.com/SIDNEY081/AI-Stroke-Shield)
 
 ---
 
 ## 🐍 Python Learning — Education Repository
 
-A structured library of Python exercises, automation scripts & OOP concepts.
+Structured library of Python exercises, automation scripts & OOP concepts.
 
-🔗 [Live Demo](#) • [Source Code](#)
+🔗 [Live Demo](https://example.com) • [Source Code](https://github.com/SIDNEY081/Python-Learning)
 
 ---
 
@@ -115,7 +113,7 @@ A structured library of Python exercises, automation scripts & OOP concepts.
 
 End-to-end recruitment management web application for organizational use.
 
-🔗 [Live Demo](#) • [Source Code](#)
+🔗 [Live Demo](https://example.com) • [Source Code](https://github.com/SIDNEY081/MICT-SETA-Recruitment)
 
 ---
 
@@ -142,7 +140,7 @@ End-to-end recruitment management web application for organizational use.
 <p align="center">
   <a href="mailto:sidneympenyana@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://sidney081.github.io"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/sidney-mpenyana/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/SIDNEY081"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
