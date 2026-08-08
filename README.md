@@ -5,7 +5,7 @@
 
 <!-- ANIMATED INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&width=700&lines=Junior+Developer+%7C+Full-Stack+Developer;Android+Developer+%7C+Web+Developer;Passionate+Problem+Solver+%7C+Always+Learning;Turning+Ideas+Into+Reality+Through+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+Data+%26+AI+Developer;Data+Analytics+Specialist+%7C+Python+Developer;Machine+Learning+Enthusiast+%7C+Full-Stack+Developer;Turning+Data+Into+Decisions+Through+Code" />
 </p>
 
 <p align="center">
@@ -21,30 +21,30 @@
 
 # 👨‍💻 About Me
 
-I am a **Full-Stack & Android Developer** passionate about building modern, scalable, and user-friendly applications.  
-Currently enhancing my skills in **Kotlin**, **Android Studio**, **Firebase**, and **modern UI frameworks**.
+I am a **Software Developer specializing in Data Analytics & AI**. I build predictive models and AI-assisted tools using **Python, Pandas, Scikit-learn, and Power BI/Tableau**, and I'm comfortable across SQL, Java, PHP, and full-stack web development.
 
-🎓 Diploma in Information Technology — *Vaal University of Technology*  
+🎓 Diploma in Information Technology — *Vaal University of Technology* (2025)  
 📍 Limpopo, 415 Mokopa, Northam Mojuteng, Thabazimbi, South Africa — open to relocation  
-🚀 Seeking: *Junior Developer • Internship • Graduate Program*  
-💡 Strong foundation in: software engineering, networking, troubleshooting, & systems
+🚀 Seeking: *Software Development & Data/AI roles • Internship • Graduate Program*  
+💡 Certified in Google Advanced Data Analytics, IBM Data Science, and Cisco CCNA
 
 ---
 
 # 🌟 Featured Highlights
 
+📊 Built predictive ML models for transformer failure & electricity theft detection (**SmartGrid PredictAI**)  
+🧠 Applied machine learning to healthcare risk prediction (**AI Stroke Shield**)  
 ✨ Designed & built **5+ production-level software projects**  
 📱 Skilled in **mobile app development (Android/Kotlin)**  
 🌐 Experienced in **web apps, databases & APIs**  
-⚙ Knowledgeable in **IT infrastructure & networks**  
-📊 Active contributor on GitHub with a growing project library  
+📈 Active contributor on GitHub with a growing project library  
 
 ---
 
 # 🎨 Tech Stack 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,php,js,html,css,react,nodejs,mysql,sqlite,firebase,git,github,vscode,androidstudio&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,java,kotlin,php,js,html,css,react,nodejs,mysql,sqlite,firebase,git,github,vscode,androidstudio&perline=8" />
 </p>
 
 ---
@@ -53,11 +53,11 @@ Currently enhancing my skills in **Kotlin**, **Android Studio**, **Firebase**, a
 
 | Category | Skills |
 |---------|--------|
+| **Data & AI** | Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Power BI, Tableau, R |
 | **Frontend** | HTML5, CSS3, JavaScript, React |
 | **Backend** | PHP, Node.js, Express, Java |
 | **Mobile** | Android Studio, Kotlin, Firebase |
 | **Database** | MySQL, SQLite, MariaDB |
-| **AI/ML** | Python, TensorFlow, OpenCV |
 | **Infrastructure** | Networking, Troubleshooting, IT Essentials |
 | **Tools** | Git, GitHub, VS Code, NetBeans |
 
@@ -66,6 +66,21 @@ Currently enhancing my skills in **Kotlin**, **Android Studio**, **Firebase**, a
 # 🚀 Project Showcase
 
 Each project is now displayed as a **professional card** for recruiters.
+
+---
+
+## ⚡ SmartGrid PredictAI — Data Analytics & AI (Flagship)
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</div>
+
+**Description:**  
+AI application for utility grid operations: predictive models for transformer failure detection and electricity theft identification, built on synthetic datasets simulating 3,000 transformers, 100,000 meters, and 1,500 feeders. Includes a Flask dashboard with login, AI assistant, and PDF maintenance reports.
+
+🔗 **Links:**  
+[Live Demo](https://smartgrid-predictai-0etn.onrender.com) • [Source Code](https://github.com/SIDNEY081/SmartGrid-PredictAI)
 
 ---
 
@@ -148,7 +163,7 @@ End-to-end recruitment management web application for organizational use.
 <p align="center">
   <a href="mailto:sidneympenyana@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://sidney081.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/sidney-mpenyana" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/SIDNEY081"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
