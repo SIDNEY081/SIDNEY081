@@ -24,9 +24,9 @@
 I am a **Software Developer specializing in Data Analytics & AI**. I build predictive models and AI-assisted tools using **Python, Pandas, Scikit-learn, and Power BI/Tableau**, and I'm comfortable across SQL, Java, PHP, and full-stack web development.
 
 🎓 Diploma in Information Technology — *Vaal University of Technology* (2025)  
-📍 Limpopo, 415 Mokopa, Northam Mojuteng, Thabazimbi, South Africa — open to relocation  
+📍 Limpopo, Stand no 628, Xihoko Village, Tzaneen, South Africa — open to relocation  
 🚀 Seeking: *Software Development & Data/AI roles • Internship • Graduate Program*  
-💡 Certified in Google Advanced Data Analytics, IBM Data Science, and Cisco CCNA
+💡 Certified in Google Advanced Data Analytics
 
 ---
 
